@@ -134,7 +134,7 @@
             <sch:type>Item</sch:type>
             <sch:seqIndex>6110</sch:seqIndex>
             <sch:format>%s %s</sch:format>
-            <sch:columns>EventType,EventTime</sch:columns>
+            <sch:columns>EventTypeId,MessageId</sch:columns>
             <sch:action></sch:action>
             <sch:quoteDisplay>false</sch:quoteDisplay>
             <sch:description></sch:description>
