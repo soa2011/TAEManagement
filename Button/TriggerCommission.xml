@@ -8,4 +8,5 @@
     <sch:appliesTo></sch:appliesTo>
     <sch:securityToken></sch:securityToken>
     <sch:description></sch:description>
+    <sch:bmfTransaction isRef="true">TriggerCommission</sch:bmfTransaction>
 </sch:Button>
