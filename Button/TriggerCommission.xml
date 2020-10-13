@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<sch:Button xmlns:sch="http://Baf.com/schemas" name="TriggerCommission">
+    <sch:name>TriggerCommission</sch:name>
+    <sch:label>TriggerCommission</sch:label>
+    <sch:behavior>ExecuteMethod</sch:behavior>
+    <sch:bmfTransactionName>TriggerCommission</sch:bmfTransactionName>
+    <sch:content></sch:content>
+    <sch:appliesTo></sch:appliesTo>
+    <sch:securityToken></sch:securityToken>
+    <sch:description></sch:description>
+</sch:Button>

@@ -756,5 +756,15 @@
             <sch:eventHandler></sch:eventHandler>
             <sch:bmfButton isRef="true">ResendEvent</sch:bmfButton>
         </sch:BmfPageButton>
+        <sch:BmfPageButton>
+            <sch:seqNumber>2500</sch:seqNumber>
+            <sch:buttonName>TriggerCommission</sch:buttonName>
+            <sch:displayCondition></sch:displayCondition>
+            <sch:displayResource></sch:displayResource>
+            <sch:description></sch:description>
+            <sch:showButton>true</sch:showButton>
+            <sch:eventHandler></sch:eventHandler>
+            <sch:bmfButton isRef="true">TriggerCommission</sch:bmfButton>
+        </sch:BmfPageButton>
     </sch:buttons>
 </sch:PageDefinition>
